@@ -1,5 +1,3 @@
 # Interactive Music Group
-### "Wings of Change"
-where visitors briefly experience different stages of climate impact through a single bird’s perspective
-
-How to use the data scripting:
+### "Climate Data Sonification"
+Using this python parser, we convert the Climate API data into MIDI information for a Max/MSP patch that slows down the playback speed of an audio file based on the magnitude of the annual temperature normalization difference.
